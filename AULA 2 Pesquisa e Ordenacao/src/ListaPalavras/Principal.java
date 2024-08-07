@@ -10,5 +10,6 @@ public class Principal {
         ArrayList<String> listaPalavras = new ArrayList<>();
         Util.gerarPalavrasLista(listaPalavras, 10, 8);
         Util.exibir(listaPalavras, "\n===== Lista de palavras =====");
+        Util.gravarPalavrasArquivo("palavras.txt",listaPalavras);
     }
 }
