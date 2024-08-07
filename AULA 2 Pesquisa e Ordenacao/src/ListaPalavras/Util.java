@@ -47,4 +47,13 @@ public class Util {
             System.out.println(item);
         }
     }
+
+    public static void gravarPalavrasArquivo(String nomeArquivo, ArrayList<String> lista) throws IOException {
+        try (BufferedWriter gravador = new BufferedWriter(new FileWriter(nomeArquivo))) {
+            for (Object palavra : lista) {
+                gravador.write(palavra.toString()); // Converte o número para String antes de gravar
+                gravador.newLine(); // Adiciona uma nova linha após cada número
+            }
+        } // O try-with-resources garante que o BufferedWriter será fechado corretamente
+    }
 }
