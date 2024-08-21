@@ -40,7 +40,9 @@ como crescente, decrescente ou baseada em algum critério.
 > ➔ Métodos INSTÁVEIS, na ordenação, ao ordenar, desordenam temporariamente a estrutura.<br><br>
 
 ### 🗃️ 4 - Qual ou quais os melhores métodos de ordenação?
-> .
+> **Depende**
+>  Do tamanho da estrutura
+> Se a estrutura está ou não previamente ordenada
 
 ### 🗃️ 5 - O que tem em comum os métodos Bolha, Seleção e Inserção?
 > .
