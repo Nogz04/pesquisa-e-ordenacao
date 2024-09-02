@@ -15,7 +15,7 @@ tamanhoNome = random.randint(3, 4)  # fazendo com que o tamanho dos nomes mude a
 
 
 # Gerando os nomes e idades.
-Util.gerador_Nomes_Idade_para_Lista(lista_bolha, quantidade, 1) # voce pode mudar o tamanho do nome colocando o numero que desejar aqui também
+Util.gerador_Nomes_Idade_para_Lista(lista_bolha, quantidade, tamanhoNome) # voce pode mudar o tamanho do nome colocando o numero que desejar aqui também
 Util.gerador_Nomes_Idade_para_Lista(lista_selecao, quantidade, tamanhoNome)
 Util.gerador_Nomes_Idade_para_Lista(lista_insercao, quantidade, tamanhoNome)
 Util.gerador_Nomes_Idade_para_Lista(lista_sort, quantidade, tamanhoNome)
