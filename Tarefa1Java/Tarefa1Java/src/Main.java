@@ -15,13 +15,13 @@ public class Main {
         List<Aluno> listaInsercao = new ArrayList<>();
         List<Aluno> listaSort = new ArrayList<>();
 
-        int quantidade = 300; // serão 60 mil alunos gerados.
+        int quantidade = 60000; // serão 60 mil alunos gerados.
 
         Random random = new Random();
         int tamanhoNome = random.nextInt(3, 5); // fazendo com que o tamanho dos nomes mude a cada compilação do código.
 
         // Gerando os nomes e idades.
-        listaBolha = Util.gerarNomesEIdades(quantidade, 1);
+        listaBolha = Util.gerarNomesEIdades(quantidade, tamanhoNome);
         listaSelecao = Util.gerarNomesEIdades(quantidade, tamanhoNome);
         listaInsercao = Util.gerarNomesEIdades(quantidade, tamanhoNome);
         listaSort = Util.gerarNomesEIdades(quantidade, tamanhoNome);
