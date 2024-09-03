@@ -11,8 +11,8 @@ public class Util {
     /**
      * Gera um nome aleatório com o tamanho especificado.
 
-     * @param tamanho O tamanho do nome a ser gerado.
-     * @return O nome aleatório gerado.
+     * @param tamanho (int) O tamanho do nome a ser gerado.
+     * @return: O nome aleatório gerado.
      */
     public static String gerarNomeAleatorio(int tamanho) {
 
@@ -38,7 +38,7 @@ public class Util {
     public static int gerarIdadeAleatoria() {
 
         Random random = new Random();
-        return random.nextInt(18,70); // Gera idade entre 18 e 70
+        return random.nextInt(18,70);
 
     }
 
