@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\bin\Debug\net6.0\OrdenacaoDeObjetos.exe
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\bin\Debug\net6.0\OrdenacaoDeObjetos.deps.json
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\bin\Debug\net6.0\OrdenacaoDeObjetos.runtimeconfig.json
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\bin\Debug\net6.0\OrdenacaoDeObjetos.dll
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\bin\Debug\net6.0\OrdenacaoDeObjetos.pdb
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.dll
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\refint\OrdenacaoDeObjetos.dll
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.pdb
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\OrdenacaoDeObjetos.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\OrdenacaoDeObjetos\obj\Debug\net6.0\ref\OrdenacaoDeObjetos.dll
